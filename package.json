@@ -1,0 +1,21 @@
+{
+    "name": "arc-horizon",
+    "displayName": "arc horizon",
+    "description": "arc horizon color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arc Horizon Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arc Horizon Dark-color-theme.json"
+            }
+        ]
+    }
+}
